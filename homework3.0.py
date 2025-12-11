@@ -83,10 +83,3 @@ class Friend(Person):
         )
 
 
-cl1 = Classmate("Иван", "20.02.2000", "студент", True, "11D")
-cl1.introduce()
-
-fr1 = Friend("Айбек", "20.02.2000", "студент", True, "футбол")
-fr1.introduce()
-
-print(fr1.age)

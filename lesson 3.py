@@ -4,7 +4,6 @@ class Car:
         self.color = color
         self.model = model
         self._fined = False
-    а
 
     def drive_to(self, destination):
         print(f"Car {self.model} driving to {destination}")
