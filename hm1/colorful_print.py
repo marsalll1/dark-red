@@ -25,4 +25,4 @@ person = [person1, person2, person3]
 for i in person:
     print(i.introduce())
 
-#ЧТОБЫ ПОЛУЧИТЬ ЦВЕТА НАЖМИ ЭТОТ КОММАНДУ: python hm1/colorful_print.py
+#ЧТОБЫ ПОЛУЧИТЬ ЦВЕТА НАЖМИ ЭТОТ КОММАНДУ:python hm1/colorful_print.py
